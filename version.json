@@ -1,6 +1,6 @@
 {
-    "surum": 2,
-    "en_az_surum": 1,
+    "surum": 3,
+    "en_az_surum": 2,
     "guncelleme_zorunlu": true,
     "indirme_linki": "https://github.com/ahmedglckc/Deep/releases/download/v2/deep.exe",
     "baslik": "Güncelleme Gerekli",

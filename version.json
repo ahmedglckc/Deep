@@ -1,7 +1,7 @@
 {
     "surum": 1,
     "en_az_surum": 0,
-    "guncelleme_zorunlu": true,
+    "guncelleme_zorunlu": false,
     "indirme_linki": "https://github.com/ahmedglckc/Deep/releases/download/v2/deep.exe",
     "baslik": "Güncelleme Gerekli",
     "mesaj": "Yeni sürüm v2 çıktı! Lütfen güncelleyin.",
